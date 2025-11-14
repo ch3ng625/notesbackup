@@ -1,0 +1,6 @@
+- Try multiple shell types (`bash`, `sh`, etc.) and multiple payload types.
+- Check tool versions whenever relevant (Cron jobs, `sudo` scripts, etc.)
+- Check all tables in a database (not just user tables)
+- Check seemingly default places (e.g., Default SMB shares)
+- Try host names as URL endpoints.
+- Check all files, even if it seems duplicate
